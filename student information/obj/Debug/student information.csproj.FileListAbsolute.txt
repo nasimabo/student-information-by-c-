@@ -1,0 +1,10 @@
+F:\parsonal\work\c# project\student information\student information\student information\bin\Debug\student information.exe.config
+F:\parsonal\work\c# project\student information\student information\student information\bin\Debug\student information.exe
+F:\parsonal\work\c# project\student information\student information\student information\bin\Debug\student information.pdb
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student information.csproj.AssemblyReference.cache
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student_information.Form1.resources
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student_information.Properties.Resources.resources
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student information.csproj.GenerateResource.cache
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student information.csproj.CoreCompileInputs.cache
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student information.exe
+F:\parsonal\work\c# project\student information\student information\student information\obj\Debug\student information.pdb
